@@ -13,36 +13,6 @@ This is a RESTful API with the following properties:
 4. It has endpoints to CREATE, UPDATE, and DELETE each entity in the application
 5. Only an authorized user can access the endpoints
 
-## Installation and Set Up
-Clone the repo from GitHub:
-```
-git clone https://github.com/mbithenzomo/flask-student-api
-```
-
-Fetch from the develop branch:
-```
-git fetch origin develop
-```
-
-Navigate to the root folder:
-```
-cd flask-student-api
-```
-
-Install the required packages:
-```
-pip install -r requirements.txt
-```
-
-Initialize, migrate, and upgrade the database:
-```
-python manage.py db init
-python manage.py db migrate
-python manage.py db upgrade
-```
-
-## Launching the Program
-Run ```python run.py```. You may use [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) for Google Chrome to run the API.
 
 ## API Endpoints
 
