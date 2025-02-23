@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/mbithenzomo/flask-student-api.svg?branch=develop)](https://travis-ci.org/mbithenzomo/flask-student-api)
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
 
 # School API
